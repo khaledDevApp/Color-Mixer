@@ -1,0 +1,26 @@
+Color Mixing Application  Policy
+Objective:
+this application is mixing basic colore , produces othe colo as results, and provides a smooth user experience.
+
+Scope:
+This policy covers all aspects of testing the color mixing functionality, including UI, color accuracy, performance, and usability.
+
+Testing Process:
+Functional Testing:
+
+this is three  primary colors (red, blue, yellow) mix correctly to form secondary colors (purple, green, orange).
+the color mixing results are consistent across different devices and screen resolutions.
+
+ all color selection options are visible and accessible.
+
+Compatibility Testing:
+
+ The application is work on different browsers .
+
+
+Bug Reporting:
+
+
+Review Cycle:
+
+This policy is designed to ensure high-quality results while being simple and easy to implement for a color mixing application.
